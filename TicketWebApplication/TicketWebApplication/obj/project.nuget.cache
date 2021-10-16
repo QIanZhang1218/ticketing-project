@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "88gYA0jKFEsBDWnXCYDMBAzslDJbFxpoZJqg+ycRqBTdzaj5MxqVDiOXXdkA4ta5kAx4c2QSx5ucK3AXNSNULg==",
+  "success": true,
+  "projectFilePath": "/Users/zhangqian/Downloads/ticketing-page/TicketWebApplication/TicketWebApplication/TicketWebApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/zhangqian/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/stripe.net/39.73.0/stripe.net.39.73.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/system.configuration.configurationmanager/5.0.0/system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/system.drawing.common/5.0.0/system.drawing.common.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/system.security.cryptography.protecteddata/5.0.0/system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/system.security.permissions/5.0.0/system.security.permissions.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/Users/zhangqian/.nuget/packages/system.windows.extensions/5.0.0/system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
