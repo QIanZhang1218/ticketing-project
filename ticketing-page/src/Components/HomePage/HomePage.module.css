@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    height: 100%;
+    border: 1px solid green;
+}
+.welcome{
+    position:absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 100px;
+    top: 50%;
+    transform: translateY(-50%);
+}

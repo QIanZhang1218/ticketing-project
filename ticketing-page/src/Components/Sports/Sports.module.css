@@ -1,0 +1,35 @@
+.listItem{
+    width: 90%;
+    margin: 0 auto;
+    /*border: 1px solid lightgrey;*/
+    height: 250px;
+    display: flex;
+}
+.eventImg{
+    max-width: 380px;
+    max-height: 100%;
+    position:relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.eventInfo{
+    position:relative;
+    margin-top: 4%;
+    height: 190px;
+ }
+.eventDate{
+    font-size: 12px;
+    color: orangered;
+}
+.eventLocation{
+    font-size: 12px;
+    color: #282c34;
+}
+.eventPrice{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 500;
+    color: #282c34;
+}

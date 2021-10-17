@@ -1,0 +1,45 @@
+[{
+  "eventType": "sports",
+  "eventId": 1,
+  "eventName": "Rise of Champions",
+  "eventDate": [
+    "2021/12/02 14:00"
+  ],
+  "ticketPrice": [
+    38.02
+  ],
+  "eventImg": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144220057%2F567194726741%2F1%2Foriginal.20210811-110608?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=13%2C500%2C1598%2C799&s=4b5a93b459e5f9d3749b22cacf02b1e8",
+  "eventLocation": "165 Lake Road Rotorua, Bay of Plenty 3015",
+  "eventInfo": "A show to not be missed, our expert analysts have been hard at work matching fighters from across the North Island to put on a spectacular show! These fighters are sure to impress with a stacked fight card featuring two New Zealand titles and one North Island title on the line! That's not all though, one of the main events is a four man tag team!\n\nFood and drinks (alcoholic and non-alcoholic) will be available for purchase on the night with both cash and eftpos options available.\n\nLimited corporate tables will be available for pre sale, these are not able to be purchased on the night.\n\nSeated tickets will be available for sale on the night but be wary as these will sell out fast."
+},
+{
+  "eventType": "sports",
+  "eventId":2,
+  "eventName": "Suburbs Golf Masters",
+  "eventDate": [
+  "2021/11/22 8:00",
+  "2021/12/02 14:00",
+    "2022/01/15 8:00"
+  ],
+  "ticketPrice": [
+  120
+  ],
+  "eventImg": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F147865889%2F459776611836%2F1%2Foriginal.20210913-031945?w=720&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C11%2C2848%2C1424&s=6e1d15d6702657004911647d15edf4fb",
+  "eventLocation": "Suburbs New Lynn Cricket Club • Auckland, Auckland",
+  "eventInfo": "Ticket Price Includes\n\nGreen Fees - 18 holes\nTransport to and from the golf course from Ken Maunder Park, New Lynn - pick up at 9.30am and drop back approx 6.45pm\nGoodie Bag\nBasic, BBQ lunch,\n3 drink tokens.\nIndividual platters at the end of the day\nCash Bar back at the Club rooms where awards will be presented.\nIf you wish to select your own playing four, then make sure you purchase a 4 person ticket. Otherwise purchase an individual ticket and we will group you."
+  },
+{
+  "eventType": "sports",
+  "eventId": 3,
+  "eventName": "Got To Get Out Snow Club BEGINNER: Mt Ruapehu (Long weekend!)",
+  "eventDate": [
+  "2021/10/22 9:00"
+  ],
+  "ticketPrice": [
+  249.65
+  ],
+  "eventImg": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F139724281%2F229749391275%2F1%2Foriginal.20210624-080305?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C94%2C8518%2C4259&s=0a3a780916f73681ee40d21b8ec09427",
+  "eventLocation": "archie cafe • Auckland, Auckland",
+  "eventInfo": "Have you got to get out to the snow this Labour weekend with a fun welcoming group, which is very beginner-friendly?\n\nWhether you're a first timer (never touched snow!), progressing from lower to upper mountain this year, or just want to get social at the snow, you are very welcome on our Beginner+ trips!\n\nNOTE - all levels are totally invited! If you're already riding upper-mountain that's fine too. Come share your skills with the group.\n\nSarah is a friendly supportive leader with great social skills which makes these events fun and upbeat for those wanting to progress further up the Maunga, or just have a fun weekend.\n\nExpect socialising, fun and lots of korero and laughter in the bus and hut.\n\nThe group will stay in National Park and decide which ski field to visit based on the snow conditions and weather report on the day.\n\nDETAILS\n\nIf you have a bus ticket (Aucklanders or those who live near our bus route should come on the bus please) meet 5:30pm outside Archie Café, Ponsonby, Auckland.\n\nWe will happily pick people up from Bombay (est 7pm), and Whatawhata (est 8pm) (for Hamilton crew) along the route.\n\nThe limited amount of self drivers need to be in National Park at 10pm.\n\nThere is space on the bus for your skis/boards/bags but we ask you pack light!\n\nFriday 22 October\n\n5:30pm - Meet outside Archie Café, Ponsonby\n\n6pm - Departure\n\n10pm (ish) - Arrival National Park\n\nSaturday 23 October\n\n6:30am - Up and moving\n\n8:30am - First lifts\n\n12noon - Meet up for lunch at Happy Valley Bistro (Whakapapa) or Alpine Bar and Bistro (Turoa)\n\n4pm (ish) - Depart Maunga\n\n7pm - Shared dinner in the hut\n\nSunday 24 October\n\n6:30am - Up and moving\n\n8:30am - First lifts\n\n12noon - Meet up for lunch at Happy Valley Bistro (Whakapapa) or Alpine Bar and Bistro (Turoa)\n\n4pm (ish) - Depart Maunga\n\n7pm - Shared dinner in the hut or in a local pub\n\nMonday 25 October (Labour Day)\n\n6:30am - Up and moving\n\n8:30am - First lifts\n\n12noon - Meet up for lunch at Happy Valley Bistro (Whakapapa) or Alpine Bar and Bistro (Turoa)\n\n4pm (ish) - Depart Maunga (maybe earlier if conditions and legs not amazing)\n\n9pm (ish) - Returned to Ponsonby or dropped along the way, or self drivers make their own way home\n\nGEAR LIST\n\nBYO food (breakfast Saturday, Sunday and Monday and shared dinner Saturday and Sunday night), a change of clothes for the ski lodge, your ski gear (drying room provided), pillowcase, sleeping bag & towel.\n\nMore detailed gear list sent to ticket holders.\n\nGames are always fun!\n\nCHECK-IN\n\nBefore arrival to the event please sign-in using our werewolf check-in: www.gottogetout.com/check-in (this is for your safety in case of an emergency)\n\nCANCELLATIONS\n\nCancellations with at least 2 weeks notice will be 100% refunded. Cancellations with less then 2 weeks notice will not be refunded."
+}
+]

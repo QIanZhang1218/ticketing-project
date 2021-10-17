@@ -1,0 +1,117 @@
+.orderContainer{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-flow: row wrap;
+}
+/*left part of the modal(including event name, date, list and check out button)*/
+.eventInfo{
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+.eventTitle{
+    height: 95px;
+    width: 100%;
+    text-align: center;
+}
+.eventTitle p{
+    margin-top: 15px;
+    margin-bottom: 0;
+    height: 20px;
+    line-height: 20px;
+    text-overflow:ellipsis;
+    overflow:hidden;
+}
+.ticketSelect{
+    width: 100%;
+    height: 400px;
+}
+.selectContainer{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.selectRadio{
+    min-width: 45%;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+.dropdownContainer{
+    position:relative;
+    width: 100%;
+    margin: 30px auto;
+    height: 50px;
+}
+.quantitySelect{
+    position:absolute;
+    right: 7%;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+}
+.actionTitle{
+    color: grey;
+    font-size: 14px;
+    margin-left: 10px;
+}
+input{
+    -webkit-appearance:none;
+}
+.checkoutBtn{
+    position: absolute;
+    bottom: 10px;
+}
+/*right part of the modal*/
+.summaryContainer{
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+.imgBox{
+    height: 150px;
+    width: 100%;
+}
+.orderDetail{
+    width: 100%;
+    height: 350px;
+}
+.emptyCart{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    color: lightgrey;
+    width: 85%;
+    margin: auto;
+    height: 100px;
+}
+.orderSummary{
+    position: relative;
+    height: 200px;
+    color: #282c34;
+    margin-top: 10px;
+}
+.orderTitle{
+    font-size: 16px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+.orderDetails{
+    font-size: 14px;
+    margin-left: 20px;
+}
+.totalPrice{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000000;
+    bottom: 10px;
+    right: 5px;
+}
